@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "email": "ovechka@gmail.com",
+    "login": "ovechka",
+    "password": "bebebe",
+    "createdAt": "2025-10-02T22:36:26.209848",
+    "updatedAt": "2025-10-02T22:36:26.209848"
+  },
+  {
+    "id": 1,
+    "email": "zayka@gmail.com",
+    "login": "zayka",
+    "password": "beeee",
+    "createdAt": "2025-10-02T22:52:27.192627",
+    "updatedAt": "2025-10-02T22:52:27.192627"
+  }
+]
